@@ -6,10 +6,10 @@
         id        = "za.co.syntagm.agriPush"
         version   = "1.0.0">
 
-    <name>agriPush</name>
+    <name>VikingPush</name>
 
     <description>
-        Push notifications for agriculture
+        Push notifications for Viking
     </description>
 
     <author href="http://www.appfarm.co.za" email="syntagm@icon.co.za">
